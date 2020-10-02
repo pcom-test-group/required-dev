@@ -1,6 +1,6 @@
 {
   "name": "pcom-test/require-dev",
   "require": {
-    "psr/log": "*"
+    "psr/log": "dev"
   }
 }
